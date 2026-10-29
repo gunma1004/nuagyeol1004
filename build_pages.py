@@ -2,7 +2,7 @@ import os
 import itertools
 import urllib.parse
 
-BASE_URL = "https://nuagyeol.netlify.app"
+BASE_URL = "https://nuagyeol1004.netlify.app"
 PHONE = "0507-1280-3199"
 BRAND_NAME = "누아결1004"
 YOUTUBE_ID = "DxwimcJq3_A"

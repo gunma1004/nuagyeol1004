@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nuagyeol.netlify.app/sitemap.xml
+Sitemap: https://nuagyeol1004.netlify.app/sitemap.xml
